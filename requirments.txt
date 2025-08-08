@@ -1,0 +1,6 @@
+torch
+mlflow
+dvc
+tqdm
+opencv-python
+pytest

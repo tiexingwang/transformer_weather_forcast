@@ -1,0 +1,11 @@
+name: weather-forecast-transformer
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - torch
+      - mlflow
+      - dvc
+      - tqdm
+      - opencv-python
+      - pytest
